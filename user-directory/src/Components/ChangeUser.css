@@ -1,0 +1,49 @@
+.change-user-container {
+  background-color: #ebebeb;
+  width: 70vw;
+  height: 50vh;
+  position: relative;
+  top: 10vh;
+  color: #222222;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons-box {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 80px;
+}
+
+.blue-buttons-box {
+  display: flex;
+}
+
+.blue-buttons {
+  background-color: #35a5da;
+  height: 30px;
+  width: 70px;
+  margin-left: 20px;
+  font-family: 'Roboto-black', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #ebebeb;
+  border: none;
+  border-radius: 30%;
+}
+
+.previous {
+  font-family: 'Roboto-black', Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #ebebeb;
+  background-color: transparent;
+  border: none;
+}
+
+.next {
+  font-family: 'Roboto-black', Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #ebebeb;
+  background-color: transparent;
+  border: none;
+}
